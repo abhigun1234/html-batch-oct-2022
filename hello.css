@@ -1,3 +1,11 @@
 .header{
-    background-color: yellow;
+ display: flex;
+ flex-direction: row;
+ justify-content:  space-around;
+}
+.home{
+
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
 }
